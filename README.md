@@ -1,9 +1,15 @@
-# Fluxo
-- [Terça] Assistir vídeo do ted ed e fazer exercicios
-- [Sexta] Assistir vídeo do ted ed e fazer exercicios
-- [Sábado] revisão do video do ted (vocabulário, conversar sobre, pontos extras)
-- [Sábado] dinâmicas do livro da Number One (?)
-- [Sábado] estudo gramática e exercicios do livro principal
-- [Sábado] exercícios do livro auxiliar da materia da semana passada
-- [Sábado] exercício do BreakingNewsEnglish.com 
+# Study flow
 
+- [Monday~Tuesday]
+    - Watch TED-ED videos and do the exercises **(20 minutes)**
+
+- [Thursday~Friday] 
+    - Do the BreakingNewsEnglish.com exercises  **(50 minutes)**
+        - _Listening_ (5 minutes)
+        - _Speed Reading_ (5 minutes)
+        - _2-page mini lesson_ exercises **(40 minutes)**
+
+- [Saturday] 
+    - TED-ID video discuss and vocabulary review **(15 minutes)**
+    - BreakingNewsEnglish.com exercises review and group dynamics **(1 hour)**
+    - Study and do the gramar exercises (Two unit per class) **(1 hour)**
